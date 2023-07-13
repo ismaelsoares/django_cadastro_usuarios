@@ -1,0 +1,1 @@
+Project register users using Python, Django, Venv and SQLITE3
